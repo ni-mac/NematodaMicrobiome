@@ -306,7 +306,7 @@ nmds$stress
 # Extract coordinates
 nmds_coords <- as.data.frame(scores(nmds))
 nmds_coords$Sample <- rownames(nmds_coords)
-nmds_coords$Nematode <- comm_mat$Art  # add grouping info
+nmds_coords$Nematode <- comm_mat$Art 
 
 # Group size classification
 group_sizes <- table(nmds_coords$Nematode)
@@ -461,7 +461,7 @@ shape_tern <- shape_sums %>%
   select(-total)
 
 nem_colors <- c(
-  "PC" = "#a1d99b",          # light green
+  "PC" = "#a1d99b",
   "Cervidellus"   = "#E69F00",
   "Acrobeloides"  = "#F0E442",
   "Stegelletina"  = "#999999",
@@ -486,8 +486,9 @@ ggtern(data = shape_tern, aes(x = coccus, y = rod, z = ovoid, color = Art)) +
   theme(
     tern.axis.arrow.show = FALSE,
     plot.title = element_blank(),
-    legend.title = element_blank(),   # <- removes legend title
+    legend.title = element_blank(), 
     legend.text = element_text(size = 20),
     legend.position = c(1, 1),
     legend.justification = c("right", "top")
   )
+
