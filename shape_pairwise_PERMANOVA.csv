@@ -1,0 +1,37 @@
+Comparison,p_value,significance
+PC_vs_Acrobeles sp.,0.057,
+PC_vs_Stegelletina,0.003,*
+PC_vs_Cervidellus,0.055,
+PC_vs_Acrobeloides,0.018,*
+PC_vs_A. emmatus,0.004,**
+PC_vs_Mesorhabditis,0.005,**
+PC_vs_A. mariannae,0.005,**
+PC_vs_Stegelleta,0.003,**
+Acrobeles sp._vs_Stegelletina,0.084,
+Acrobeles sp._vs_Cervidellus,0.333333333,
+Acrobeles sp._vs_Acrobeloides,0.4,
+Acrobeles sp._vs_A. emmatus,0.342,
+Acrobeles sp._vs_Mesorhabditis,0.524,
+Acrobeles sp._vs_A. mariannae,0.326,
+Acrobeles sp._vs_Stegelleta,0.553,
+Stegelletina_vs_Cervidellus,0.528,
+Stegelletina_vs_Acrobeloides,0.811,
+Stegelletina_vs_A. emmatus,0.254,
+Stegelletina_vs_Mesorhabditis,0.103,
+Stegelletina_vs_A. mariannae,0.198,
+Stegelletina_vs_Stegelleta,0.05,
+Cervidellus_vs_Acrobeloides,1,
+Cervidellus_vs_A. emmatus,1,
+Cervidellus_vs_Mesorhabditis,0.708,
+Cervidellus_vs_A. mariannae,0.622,
+Cervidellus_vs_Stegelleta,0.313,
+Acrobeloides_vs_A. emmatus,0.98,
+Acrobeloides_vs_Mesorhabditis,0.984,
+Acrobeloides_vs_A. mariannae,0.936,
+Acrobeloides_vs_Stegelleta,0.594,
+A. emmatus_vs_Mesorhabditis,0.687,
+A. emmatus_vs_A. mariannae,0.781,
+A. emmatus_vs_Stegelleta,0.559,
+Mesorhabditis_vs_A. mariannae,0.858,
+Mesorhabditis_vs_Stegelleta,0.748,
+A. mariannae_vs_Stegelleta,0.585,

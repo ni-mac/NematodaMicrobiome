@@ -1,0 +1,37 @@
+comparison,adonis_p,sig.
+A. mariannae vs A. emmatus,0.52,
+Acrobeles sp. vs A. emmatus,0.051,
+Acrobeloides vs A. emmatus,0.213,
+Cervidellus vs A. emmatus,0.447,
+Mesorhabditis vs A. emmatus,0.168,
+PC vs A. emmatus,0.001,**
+Stegelleta vs A. emmatus,0.384,
+Stegelletina vs A. emmatus,0.413,
+Acrobeles sp. vs A. mariannae,0.071,
+Acrobeloides vs A. mariannae,0.57,
+Cervidellus vs A. mariannae,0.955,
+Mesorhabditis vs A. mariannae,0.387,
+PC vs A. mariannae,0.006,**
+Stegelleta vs A. mariannae,0.34,
+Stegelletina vs A. mariannae,0.393,
+Acrobeloides vs Acrobeles sp.,0.3,
+Cervidellus vs Acrobeles sp.,0.333333333,
+Mesorhabditis vs Acrobeles sp.,0.133333333,
+PC vs Acrobeles sp.,0.038,*
+Stegelleta vs Acrobeles sp.,0.1,
+Stegelletina vs Acrobeles sp.,0.036,*
+Cervidellus vs Acrobeloides,0.7,
+Mesorhabditis vs Acrobeloides,0.146,
+PC vs Acrobeloides,0.021,*
+Stegelleta vs Acrobeloides,0.637,
+Stegelletina vs Acrobeloides,0.662,
+Mesorhabditis vs Cervidellus,0.2,
+PC vs Cervidellus,0.044,*
+Stegelleta vs Cervidellus,0.368,
+Stegelletina vs Cervidellus,0.317,
+PC vs Mesorhabditis,0.008,**
+Stegelleta vs Mesorhabditis,0.537,
+Stegelletina vs Mesorhabditis,0.416,
+Stegelleta vs PC,0.003,**
+Stegelletina vs PC,0.002,**
+Stegelletina vs Stegelleta,0.446,

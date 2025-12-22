@@ -1,0 +1,91 @@
+size. class,nematode,W,p-value,n
+1,A. emmatus,0.775163666,0.034730425,6
+1,A. mariannae,0.701259348,0.006373285,6
+1,Acrobeles sp.,NA,NA,2
+1,Acrobeloides,NA,NA,3
+1,Cervidellus,NA,NA,2
+1,Mesorhabditis,0.629776265,0.001240726,4
+1,PC,0.94662176,0.713046241,5
+1,Stegelleta,0.682676557,0.004039329,6
+1,Stegelletina,0.682676557,0.004039329,6
+2,A. emmatus,0.496094403,2.07E-05,6
+2,A. mariannae,0.702089054,0.006502585,6
+2,Acrobeles sp.,NA,NA,2
+2,Acrobeloides,1,1,3
+2,Cervidellus,NA,NA,2
+2,Mesorhabditis,NA,NA,4
+2,PC,0.933068203,0.617437744,5
+2,Stegelleta,0.821615562,0.091135022,6
+2,Stegelletina,0.821615562,0.091135022,6
+3,A. emmatus,0.907578534,0.420658529,6
+3,A. mariannae,0.831141525,0.109907514,6
+3,Acrobeles sp.,NA,NA,2
+3,Acrobeloides,0.964285714,0.636886845,3
+3,Cervidellus,NA,NA,2
+3,Mesorhabditis,0.945630483,0.688936437,4
+3,PC,0.814714164,0.10622704,5
+3,Stegelleta,0.826904886,0.101170663,6
+3,Stegelletina,0.682676557,0.004039329,6
+4,A. emmatus,0.639893705,0.001350753,6
+4,A. mariannae,0.682676557,0.004039329,6
+4,Acrobeles sp.,NA,NA,2
+4,Acrobeloides,NA,NA,3
+4,Cervidellus,NA,NA,2
+4,Mesorhabditis,0.827426672,0.161190614,4
+4,PC,0.710196647,0.012205466,5
+4,Stegelleta,0.907578534,0.420658529,6
+4,Stegelletina,0.682676557,0.004039329,6
+5,A. emmatus,0.853191606,0.167002833,6
+5,A. mariannae,0.799212326,0.057822171,6
+5,Acrobeles sp.,NA,NA,2
+5,Acrobeloides,1,1,3
+5,Cervidellus,NA,NA,2
+5,Mesorhabditis,0.849402353,0.224230536,4
+5,PC,0.956406105,0.782762581,5
+5,Stegelleta,0.853191606,0.167002833,6
+5,Stegelletina,0.821615562,0.091135022,6
+6,A. emmatus,0.639893705,0.001350753,6
+6,A. mariannae,0.701259348,0.006373285,6
+6,Acrobeles sp.,NA,NA,2
+6,Acrobeloides,NA,NA,3
+6,Cervidellus,NA,NA,2
+6,Mesorhabditis,NA,NA,4
+6,PC,0.872803306,0.277961147,5
+6,Stegelleta,0.496094403,2.07E-05,6
+6,Stegelletina,NA,NA,6
+7,A. emmatus,0.866261548,0.211705479,6
+7,A. mariannae,0.813741306,0.077843418,6
+7,Acrobeles sp.,NA,NA,2
+7,Acrobeloides,0.75,0,3
+7,Cervidellus,NA,NA,2
+7,Mesorhabditis,0.728634148,0.023856794,4
+7,PC,0.805881741,0.090412383,5
+7,Stegelleta,0.701259348,0.006373285,6
+7,Stegelletina,0.866261548,0.211705479,6
+8,A. emmatus,0.639893705,0.001350753,6
+8,A. mariannae,0.496094403,2.07E-05,6
+8,Acrobeles sp.,NA,NA,2
+8,Acrobeloides,NA,NA,3
+8,Cervidellus,NA,NA,2
+8,Mesorhabditis,0.629776265,0.001240726,4
+8,PC,0.932991663,0.616908838,5
+8,Stegelleta,0.496094403,2.07E-05,6
+8,Stegelletina,0.496094403,2.07E-05,6
+9,A. emmatus,0.496094403,2.07E-05,6
+9,A. mariannae,0.496094403,2.07E-05,6
+9,Acrobeles sp.,NA,NA,2
+9,Acrobeloides,NA,NA,3
+9,Cervidellus,NA,NA,2
+9,Mesorhabditis,NA,NA,4
+9,PC,0.887834317,0.346330507,5
+9,Stegelleta,0.682676557,0.004039329,6
+9,Stegelletina,NA,NA,6
+10,A. emmatus,NA,NA,6
+10,A. mariannae,0.496094403,2.07E-05,6
+10,Acrobeles sp.,NA,NA,2
+10,Acrobeloides,NA,NA,3
+10,Cervidellus,NA,NA,2
+10,Mesorhabditis,NA,NA,4
+10,PC,0.820834675,0.118509888,5
+10,Stegelleta,NA,NA,6
+10,Stegelletina,0.496094403,2.07E-05,6

@@ -1,0 +1,193 @@
+shape,nematode1,nematode2,p_value
+coccus,Acrobeles sp.,PC,0.428571429
+coccus,Stegelletina,PC,0.188711212
+coccus,Cervidellus,PC,0.404449183
+coccus,Acrobeloides,PC,0.404449183
+coccus,A. emmatus,PC,0.188711212
+coccus,Mesorhabditis,PC,0.188711212
+coccus,A. mariannae,PC,0.199741559
+coccus,Stegelleta,PC,0.188711212
+coccus,Acrobeles sp.,Acrobeles sp.,NA
+coccus,Stegelletina,Acrobeles sp.,1
+coccus,Cervidellus,Acrobeles sp.,1
+coccus,Acrobeloides,Acrobeles sp.,1
+coccus,A. emmatus,Acrobeles sp.,1
+coccus,Mesorhabditis,Acrobeles sp.,1
+coccus,A. mariannae,Acrobeles sp.,1
+coccus,Stegelleta,Acrobeles sp.,1
+coccus,Acrobeles sp.,Stegelletina,NA
+coccus,Stegelletina,Stegelletina,NA
+coccus,Cervidellus,Stegelletina,1
+coccus,Acrobeloides,Stegelletina,1
+coccus,A. emmatus,Stegelletina,1
+coccus,Mesorhabditis,Stegelletina,0.83971946
+coccus,A. mariannae,Stegelletina,1
+coccus,Stegelleta,Stegelletina,1
+coccus,Acrobeles sp.,Cervidellus,NA
+coccus,Stegelletina,Cervidellus,NA
+coccus,Cervidellus,Cervidellus,NA
+coccus,Acrobeloides,Cervidellus,1
+coccus,A. emmatus,Cervidellus,1
+coccus,Mesorhabditis,Cervidellus,0.83971946
+coccus,A. mariannae,Cervidellus,1
+coccus,Stegelleta,Cervidellus,1
+coccus,Acrobeles sp.,Acrobeloides,NA
+coccus,Stegelletina,Acrobeloides,NA
+coccus,Cervidellus,Acrobeloides,NA
+coccus,Acrobeloides,Acrobeloides,NA
+coccus,A. emmatus,Acrobeloides,1
+coccus,Mesorhabditis,Acrobeloides,1
+coccus,A. mariannae,Acrobeloides,1
+coccus,Stegelleta,Acrobeloides,1
+coccus,Acrobeles sp.,A. emmatus,NA
+coccus,Stegelletina,A. emmatus,NA
+coccus,Cervidellus,A. emmatus,NA
+coccus,Acrobeloides,A. emmatus,NA
+coccus,A. emmatus,A. emmatus,NA
+coccus,Mesorhabditis,A. emmatus,0.751132957
+coccus,A. mariannae,A. emmatus,1
+coccus,Stegelleta,A. emmatus,1
+coccus,Acrobeles sp.,Mesorhabditis,NA
+coccus,Stegelletina,Mesorhabditis,NA
+coccus,Cervidellus,Mesorhabditis,NA
+coccus,Acrobeloides,Mesorhabditis,NA
+coccus,A. emmatus,Mesorhabditis,NA
+coccus,Mesorhabditis,Mesorhabditis,NA
+coccus,A. mariannae,Mesorhabditis,0.751132957
+coccus,Stegelleta,Mesorhabditis,1
+coccus,Acrobeles sp.,A. mariannae,NA
+coccus,Stegelletina,A. mariannae,NA
+coccus,Cervidellus,A. mariannae,NA
+coccus,Acrobeloides,A. mariannae,NA
+coccus,A. emmatus,A. mariannae,NA
+coccus,Mesorhabditis,A. mariannae,NA
+coccus,A. mariannae,A. mariannae,NA
+coccus,Stegelleta,A. mariannae,1
+ovoid,Acrobeles sp.,PC,0.638048059
+ovoid,Stegelletina,PC,0.221297098
+ovoid,Cervidellus,PC,0.697387275
+ovoid,Acrobeloides,PC,0.594109577
+ovoid,A. emmatus,PC,0.24249921
+ovoid,Mesorhabditis,PC,0.221297098
+ovoid,A. mariannae,PC,0.221297098
+ovoid,Stegelleta,PC,0.221297098
+ovoid,Acrobeles sp.,Acrobeles sp.,NA
+ovoid,Stegelletina,Acrobeles sp.,0.993056679
+ovoid,Cervidellus,Acrobeles sp.,0.888588112
+ovoid,Acrobeloides,Acrobeles sp.,1
+ovoid,A. emmatus,Acrobeles sp.,1
+ovoid,Mesorhabditis,Acrobeles sp.,0.697387275
+ovoid,A. mariannae,Acrobeles sp.,0.697387275
+ovoid,Stegelleta,Acrobeles sp.,0.697387275
+ovoid,Acrobeles sp.,Stegelletina,NA
+ovoid,Stegelletina,Stegelletina,NA
+ovoid,Cervidellus,Stegelletina,0.697387275
+ovoid,Acrobeloides,Stegelletina,0.993056679
+ovoid,A. emmatus,Stegelletina,0.979314234
+ovoid,Mesorhabditis,Stegelletina,0.697387275
+ovoid,A. mariannae,Stegelletina,0.706110829
+ovoid,Stegelleta,Stegelletina,0.719250183
+ovoid,Acrobeles sp.,Cervidellus,NA
+ovoid,Stegelletina,Cervidellus,NA
+ovoid,Cervidellus,Cervidellus,NA
+ovoid,Acrobeloides,Cervidellus,1
+ovoid,A. emmatus,Cervidellus,0.979314234
+ovoid,Mesorhabditis,Cervidellus,0.638048059
+ovoid,A. mariannae,Cervidellus,0.697387275
+ovoid,Stegelleta,Cervidellus,0.638048059
+ovoid,Acrobeles sp.,Acrobeloides,NA
+ovoid,Stegelletina,Acrobeloides,NA
+ovoid,Cervidellus,Acrobeloides,NA
+ovoid,Acrobeloides,Acrobeloides,NA
+ovoid,A. emmatus,Acrobeloides,1
+ovoid,Mesorhabditis,Acrobeloides,0.706110829
+ovoid,A. mariannae,Acrobeloides,0.706110829
+ovoid,Stegelleta,Acrobeloides,0.719250183
+ovoid,Acrobeles sp.,A. emmatus,NA
+ovoid,Stegelletina,A. emmatus,NA
+ovoid,Cervidellus,A. emmatus,NA
+ovoid,Acrobeloides,A. emmatus,NA
+ovoid,A. emmatus,A. emmatus,NA
+ovoid,Mesorhabditis,A. emmatus,0.697387275
+ovoid,A. mariannae,A. emmatus,0.697387275
+ovoid,Stegelleta,A. emmatus,0.697387275
+ovoid,Acrobeles sp.,Mesorhabditis,NA
+ovoid,Stegelletina,Mesorhabditis,NA
+ovoid,Cervidellus,Mesorhabditis,NA
+ovoid,Acrobeloides,Mesorhabditis,NA
+ovoid,A. emmatus,Mesorhabditis,NA
+ovoid,Mesorhabditis,Mesorhabditis,NA
+ovoid,A. mariannae,Mesorhabditis,1
+ovoid,Stegelleta,Mesorhabditis,0.993056679
+ovoid,Acrobeles sp.,A. mariannae,NA
+ovoid,Stegelletina,A. mariannae,NA
+ovoid,Cervidellus,A. mariannae,NA
+ovoid,Acrobeloides,A. mariannae,NA
+ovoid,A. emmatus,A. mariannae,NA
+ovoid,Mesorhabditis,A. mariannae,NA
+ovoid,A. mariannae,A. mariannae,NA
+ovoid,Stegelleta,A. mariannae,0.993056679
+rod,Acrobeles sp.,PC,0.342857143
+rod,Stegelletina,PC,0.057379774
+rod,Cervidellus,PC,0.342857143
+rod,Acrobeloides,PC,0.195537609
+rod,A. emmatus,PC,0.057379774
+rod,Mesorhabditis,PC,0.057379774
+rod,A. mariannae,PC,0.057379774
+rod,Stegelleta,PC,0.057379774
+rod,Acrobeles sp.,Acrobeles sp.,NA
+rod,Stegelletina,Acrobeles sp.,0.366507308
+rod,Cervidellus,Acrobeles sp.,0.6
+rod,Acrobeloides,Acrobeles sp.,0.595729241
+rod,A. emmatus,Acrobeles sp.,0.595729241
+rod,Mesorhabditis,Acrobeles sp.,0.653061224
+rod,A. mariannae,Acrobeles sp.,0.819949522
+rod,Stegelleta,Acrobeles sp.,0.595729241
+rod,Acrobeles sp.,Stegelletina,NA
+rod,Stegelletina,Stegelletina,NA
+rod,Cervidellus,Stegelletina,0.595729241
+rod,Acrobeloides,Stegelletina,0.595729241
+rod,A. emmatus,Stegelletina,0.195537609
+rod,Mesorhabditis,Stegelletina,0.595729241
+rod,A. mariannae,Stegelletina,0.366507308
+rod,Stegelleta,Stegelletina,0.195537609
+rod,Acrobeles sp.,Cervidellus,NA
+rod,Stegelletina,Cervidellus,NA
+rod,Cervidellus,Cervidellus,NA
+rod,Acrobeloides,Cervidellus,1
+rod,A. emmatus,Cervidellus,1
+rod,Mesorhabditis,Cervidellus,0.932602259
+rod,A. mariannae,Cervidellus,0.819949522
+rod,Stegelleta,Cervidellus,0.595729241
+rod,Acrobeles sp.,Acrobeloides,NA
+rod,Stegelletina,Acrobeloides,NA
+rod,Cervidellus,Acrobeloides,NA
+rod,Acrobeloides,Acrobeloides,NA
+rod,A. emmatus,Acrobeloides,0.932602259
+rod,Mesorhabditis,Acrobeloides,0.932602259
+rod,A. mariannae,Acrobeloides,0.883678401
+rod,Stegelleta,Acrobeloides,0.714535706
+rod,Acrobeles sp.,A. emmatus,NA
+rod,Stegelletina,A. emmatus,NA
+rod,Cervidellus,A. emmatus,NA
+rod,Acrobeloides,A. emmatus,NA
+rod,A. emmatus,A. emmatus,NA
+rod,Mesorhabditis,A. emmatus,0.932602259
+rod,A. mariannae,A. emmatus,0.819949522
+rod,Stegelleta,A. emmatus,0.781373866
+rod,Acrobeles sp.,Mesorhabditis,NA
+rod,Stegelletina,Mesorhabditis,NA
+rod,Cervidellus,Mesorhabditis,NA
+rod,Acrobeloides,Mesorhabditis,NA
+rod,A. emmatus,Mesorhabditis,NA
+rod,Mesorhabditis,Mesorhabditis,NA
+rod,A. mariannae,Mesorhabditis,0.883678401
+rod,Stegelleta,Mesorhabditis,0.781373866
+rod,Acrobeles sp.,A. mariannae,NA
+rod,Stegelletina,A. mariannae,NA
+rod,Cervidellus,A. mariannae,NA
+rod,Acrobeloides,A. mariannae,NA
+rod,A. emmatus,A. mariannae,NA
+rod,Mesorhabditis,A. mariannae,NA
+rod,A. mariannae,A. mariannae,NA
+rod,Stegelleta,A. mariannae,0.932602259

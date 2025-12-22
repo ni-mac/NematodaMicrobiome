@@ -1,0 +1,28 @@
+shape,Art,W,p-value,n
+coccus,PC,0.885097176,0.33305027,5
+coccus,Acrobeles sp.,NA,NA,2
+coccus,Stegelletina,0.907578534,0.420658529,6
+coccus,Cervidellus,NA,NA,2
+coccus,Acrobeloides,0.892857143,0.363113155,3
+coccus,A. emmatus,0.906699846,0.415043531,6
+coccus,Mesorhabditis,0.684028896,0.006470001,5
+coccus,A. mariannae,0.846827049,0.148341335,6
+coccus,Stegelleta,0.772718964,0.032937266,6
+ovoid,PC,0.940899225,0.672302699,5
+ovoid,Acrobeles sp.,NA,NA,2
+ovoid,Stegelletina,0.866261548,0.211705479,6
+ovoid,Cervidellus,NA,NA,2
+ovoid,Acrobeloides,0.892857143,0.363113155,3
+ovoid,A. emmatus,0.866261548,0.211705479,6
+ovoid,Mesorhabditis,0.684028896,0.006470001,5
+ovoid,A. mariannae,0.701259348,0.006373285,6
+ovoid,Stegelleta,0.682676557,0.004039329,6
+rod,PC,0.917496879,0.513922251,5
+rod,Acrobeles sp.,NA,NA,2
+rod,Stegelletina,0.601734532,0.000481387,6
+rod,Cervidellus,NA,NA,2
+rod,Acrobeloides,0.923076923,0.463262875,3
+rod,A. emmatus,0.786747763,0.044515792,6
+rod,Mesorhabditis,0.946910921,0.715112058,5
+rod,A. mariannae,0.852592584,0.165164107,6
+rod,Stegelleta,0.989561494,0.988077825,6
